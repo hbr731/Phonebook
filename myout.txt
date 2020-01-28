@@ -1,0 +1,81 @@
+l
+9292531000
+l
+9292531010
+r
+cus15
+l
+unlisted
+r
+unlisted
+r
+cus1
+r
+cus3
+e
+Invalid input! Please try again.
+e
+Invalid input! Please try again.
+l
+unlisted
+l
+9292531006
+q
+
+
+//console input/output
+run:
+Enter L to lookup a phone number or enter R to reverse lookup or q to quit: 
+l
+Enter the name
+cus0
+9292531000
+Enter L to lookup a phone number or enter R to reverse lookup or q to quit: 
+l
+Enter the name
+cus10
+9292531010
+Enter L to lookup a phone number or enter R to reverse lookup or q to quit: 
+r
+Enter the phone number
+9292531015
+cus15
+Enter L to lookup a phone number or enter R to reverse lookup or q to quit: 
+l
+Enter the name
+cus21
+unlisted
+Enter L to lookup a phone number or enter R to reverse lookup or q to quit: 
+r
+Enter the phone number
+02464
+unlisted
+Enter L to lookup a phone number or enter R to reverse lookup or q to quit: 
+r
+Enter the phone number
+9292531001
+cus1
+Enter L to lookup a phone number or enter R to reverse lookup or q to quit: 
+R
+Enter the phone number
+9292531003
+cus3
+Enter L to lookup a phone number or enter R to reverse lookup or q to quit: 
+e
+Invalid input! Please try again.
+Enter L to lookup a phone number or enter R to reverse lookup or q to quit: 
+E
+Invalid input! Please try again.
+Enter L to lookup a phone number or enter R to reverse lookup or q to quit: 
+l
+Enter the name
+cust6
+unlisted
+Enter L to lookup a phone number or enter R to reverse lookup or q to quit: 
+l
+Enter the name
+cus6
+9292531006
+Enter L to lookup a phone number or enter R to reverse lookup or q to quit: 
+q
+BUILD SUCCESSFUL (total time: 2 minutes 57 seconds)
